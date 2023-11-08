@@ -1,0 +1,1 @@
+Proyecto de prediccion con probabilidad de poisson sobre ganador de mundial de futbol basandose en cantidad de goles anotados
